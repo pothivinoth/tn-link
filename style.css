@@ -234,3 +234,19 @@ width: 100%;
     float: right;
     margin-right: .5%;
 }
+#container4 img
+{
+    max-width: fit-content;
+    letter-spacing: var(#1f1f1f);
+}
+.name
+{
+    font-size: 128px;
+    color: azure;
+    border: #1f1f1f;
+    padding: 12px;
+    margin-left: 12px;
+    stroke: black;
+    stroke-width: 10px;
+    animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
