@@ -1,0 +1,236 @@
+#topbar
+{
+background-color: #1f1f1f;
+height: 20px;
+width: 100%;
+}
+body
+{
+    background-color: antiquewhite;
+}
+#container
+{background-color: red;
+height: 575px;
+width: 100%;
+margin: auto;
+}
+#header
+{
+height: 80px;
+background-color: white;
+}
+#header img
+{
+    height: 80px;
+}
+#header ul
+{
+    float: right;
+    margin-top: 30px;
+}
+#header ul li
+{display: inline;
+margin-right: 70px;
+}
+#header ul li a
+{
+    color: darkblue;
+    text-decoration: none;
+    font-size: large;
+}
+#banner img
+{
+    width: 95%;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: 10px;
+    padding-bottom: 20px;
+    
+}
+#content1
+{
+    width: 19%;
+    height: 250px;
+    background-color: orangered;
+    float: left;
+    margin-right: 1%;
+    margin-left: .5%;
+}
+#content2
+{
+    width: 19%;
+    height: 250px;
+    background-color: blue;
+    float: left;
+    margin-right: 1%;
+}
+#content3
+{
+    width: 19%;
+    height: 250px;
+    background-color: navy;
+    float: left;
+    margin-right: 1%;
+}
+#content4
+{
+    width: 19%;
+    height: 250px;
+    background-color: rgb(160, 236, 38);
+    float: left;
+}
+#content5
+{
+    width: 19%;
+    height: 250px;
+    background-color: rgb(245, 110, 177);
+    float: right;
+    margin-right: .5%;
+}
+#container1
+{
+background-color: rgb(10, 179, 38);
+margin-top: 500px;
+height: 250px;
+width: 100%;
+}
+#content6
+{
+    width: 19%;
+    height: 250px;
+    background-color: rgb(245, 110, 177);
+    float: left;
+    margin-left: .5%;
+    margin-right: 1%;
+    
+}
+#content7
+{
+    width: 19%;
+    height: 250px;
+    background-color: rgb(245, 110, 177);
+    float: left;
+    margin-right: 1%;
+}
+#content8
+{
+    width: 19%;
+    height: 250px;
+    background-color: rgb(245, 110, 177);
+    float: left;
+    margin-right: 1%;
+}
+#content9
+{
+    width: 19%;
+    height: 250px;
+    background-color: rgb(245, 110, 177);
+    float: left;
+    margin-right: 1%;
+}
+#content10
+{
+    width: 19%;
+    height: 250px;
+    background-color: rgb(245, 110, 177);
+    float: right;
+    margin-right: .5%;
+}
+#container2
+{
+background-color: rgb(10, 179, 38);
+margin-top: 10px;
+height: 250px;
+width: 100%;
+}
+#content11
+{
+    width: 19%;
+    height: 250px;
+    background-color: rgb(245, 110, 177);
+    float: left;
+    margin-left: .5%;
+    margin-right: 1%;
+    
+}
+#content12
+{
+    width: 19%;
+    height: 250px;
+    background-color: rgb(245, 110, 177);
+    float: left;
+    margin-right: 1%;
+}
+#content13
+{
+    width: 19%;
+    height: 250px;
+    background-color: rgb(245, 161, 35);
+    float: left;
+    margin-right: 1%;
+}
+#content14
+{
+    width: 19%;
+    height: 250px;
+    background-color: rgb(245, 110, 177);
+    float: left;
+    margin-right: 1%;
+}
+#content15
+{
+    width: 19%;
+    height: 250px;
+    background-color: rgb(35, 143, 50);
+    float: right;
+    margin-right: .5%;
+}
+#container3
+{
+background-color: rgb(10, 179, 38);
+margin-top: 10px;
+height: 250px;
+width: 100%;
+}
+#content16
+{
+    width: 19%;
+    height: 250px;
+    background-color: rgb(44, 7, 145);
+    float: left;
+    margin-left: .5%;
+    margin-right: 1%;
+    
+}
+#content17
+{
+    width: 19%;
+    height: 250px;
+    background-color: rgb(173, 95, 245);
+    float: left;
+    margin-right: 1%;
+}
+#content18
+{
+    width: 19%;
+    height: 250px;
+    background-color: rgb(146, 7, 77);
+    float: left;
+    margin-right: 1%;
+}
+#content19
+{
+    width: 19%;
+    height: 250px;
+    background-color: rgb(182, 74, 128);
+    float: left;
+    margin-right: 1%;
+}
+#content20
+{
+    width: 19%;
+    height: 250px;
+    background-color: rgb(79, 163, 231);
+    float: right;
+    margin-right: .5%;
+}
